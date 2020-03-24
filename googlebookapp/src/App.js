@@ -6,7 +6,6 @@ import searchBooks from "./pages/searchBooks";
 
 function App() {
   return (
-    return (
       <div>
         <Nav />
         <searchBooks />
@@ -14,9 +13,5 @@ function App() {
     );
   }
   
-  export default App;
-  
-  );
-}
-
 export default App;
+  
